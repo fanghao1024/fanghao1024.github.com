@@ -1,11 +1,11 @@
 ---
 layout: page
 title: 方浩的新博客
-tagline: Supporting tagline
+tagline: 作为一个码奴，最好还是有个独立的博客
 ---
 {% include JB/setup %}
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
+我现在在 [北京大学](http://www.pku.edu.cn)
 
 Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
 
