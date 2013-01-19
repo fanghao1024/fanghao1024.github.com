@@ -9,7 +9,7 @@ tagline: 作为一个码奴，最好还是有个独立的博客
 
 Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
 
-## Update Author Attributes
+## 最近干的事情
 
 In `_config.yml` remember to specify your own data:
     
@@ -23,10 +23,9 @@ In `_config.yml` remember to specify your own data:
 
 The theme should reference these variables whenever needed.
     
-## Sample Posts
+## 之后想干的事情
 
-This blog contains sample posts which help stage pages and blog data.
-When you don't need the samples anymore just delete the `_posts/core-samples` folder.
+别急，让我慢慢添么。。。。
 
     $ rm -rf _posts/core-samples
 
@@ -38,9 +37,8 @@ Here's a sample "posts list".
   {% endfor %}
 </ul>
 
-## To-Do
+## 我的计划
 
-This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/plusjade/jekyll-bootstrap)!
-We need to clean up the themes, make theme usage guides with theme-specific markup examples.
+   再说
 
 
