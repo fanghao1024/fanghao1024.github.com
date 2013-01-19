@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hello World!
+title: 方浩的新博客
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
