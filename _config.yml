@@ -10,10 +10,10 @@ pygments: true
 # so be sure to set them if your theme uses them.
 #
 title : fanghow
-tagline: "Use it wisely,enjoy it as long as posible ,that's youth"
+tagline: "Stay hungry,Stay foolish"
 author :
   name : fanghow
-  email : liumengxinfly@gmail.com
+  email : chinafanghao@foxmail.com
   github : fanghow
   twitter : fanghow
   feedburner : fanghow
@@ -26,7 +26,7 @@ author :
 # Else if you are pushing to username.github.com, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : http://fanghow.com
+production_url : http://www.fanghow.com
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
