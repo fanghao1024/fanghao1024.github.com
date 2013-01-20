@@ -10,12 +10,12 @@ pygments: true
 # so be sure to set them if your theme uses them.
 #
 title : FangHow的部落格
-tagline: Site Tagline
+tagline: Stay Hungry,Stay Foolish
 author :
   name : FangHow
   email : chinafanghao@foxmail.com
-  github : username
-  twitter : username
+  github : chinafanghao
+  twitter : chinafanghao
   feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
@@ -70,7 +70,7 @@ JB :
   # These paths are to the main pages Jekyll-Bootstrap ships with.
   # Some JB helpers refer to these paths; change them here if needed.
   #
-  archives_path: /archive.html
+  archive_path: /archive.html
   categories_path : /categories.html
   tags_path : /tags.html
 
