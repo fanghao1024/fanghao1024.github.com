@@ -2,6 +2,10 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
+    <meta name="msvalidate.01" content="5F27C9E335B4E1A6ECC6762045F18FA4" />
+    <META HTTP-EQUIV="pragma" CONTENT="no-cache">
+    <META HTTP-EQUIV="Cache-Control" CONTENT="no-cache,no-store, must-revalidate">
+    <META HTTP-EQUIV="Expires" CONTENT="0">
     <title>{{ page.title }}</title>
     {% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}
     <meta name="author" content="{{ site.author.name }}">
@@ -23,16 +27,22 @@
     <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
   -->
   </head>
-
-  <body>
+<link href="/css/prettify.css" type="text/css" rel="stylesheet" />
+<script type="text/javascript" src="/css/prettify.js"></script>
+  <body onload="prettyPrint()">
 
     <div class="navbar">
       <div class="navbar-inner">
         <div class="container">
-          <a class="brand" href="{{ HOME_PATH }}">{{ site.title }}</a>
+          <a class="brand" href="{{ HOME_PATH }}">首页</a>
           <ul class="nav">
             {% assign pages_list = site.pages %}
             {% assign group = 'navigation' %}
+            {% include JB/pages_list %}
+          </ul>
+          <ul class="nav">
+            {% assign pages_list = site.pages %}
+            {% assign group = 'rss' %}
             {% include JB/pages_list %}
           </ul>
         </div>
@@ -41,7 +51,7 @@
 
     <div class="container">
 
-      <div class="content">
+      <div class="content" style="margin-top:50px;">
         {{ content }}
       </div>
 
