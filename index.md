@@ -5,9 +5,8 @@ tagline: Stay Hungry , Stay Foolish
 ---
 {% include JB/setup %}
 
-{% include JB/setup %}
 
-我现在在 [北京大学](http://www.pku.edu.cn)
+## 我现在在 [北京大学](http://www.pku.edu.cn)
 
 Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
 
