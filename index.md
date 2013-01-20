@@ -67,7 +67,7 @@ tagline: Stay hungry, Stay foolish
   </div>
   {% for post in site.posts %}
     {% if post.img != "secret" %}
-      <div>
+      <div class="main">
         <ul>
           <li>
           
