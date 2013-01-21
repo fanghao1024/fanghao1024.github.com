@@ -65,12 +65,14 @@ tagline: Stay hungry, Stay foolish
     </ul>
   </div>
   </div>
-  {% for post in site.posts %}
-   
+{% for post in site.posts %}
+    {% if post.img != "secret" %}
       <div class="main">
         <ul>
           <li>
-          
+          <a href="{{ post.url }}">
+            <img src="{{ post.img }}" alt="{{ post.title }}">
+          </a>
           <div class="posts">
             <h3>
               <a href="{{ post.url }}">{{ post.title }}</a>
