@@ -20,22 +20,22 @@ tagline: Stay hungry, Stay foolish
   <div class="to_do_list">
     <aside>
     <h2>
-      最近的主要工作
+      要种的地
     </h2>
     <ul>
-      <li><a href="https://github.com/oilbeater/ACT" target="_blank">领域工程</a></li>
-      <li><a href="http://pdos.csail.mit.edu/6.828/2011/">设计</a></li>
+      <li><a href="https://github.com/oilbeater/ACT" target="_blank">重构编译优化器代码</a></li>
+      <li><a href="http://pdos.csail.mit.edu/6.828/2011/">JOS</a></li>
     </ul>
     </aside>
   </div>
     <div class="doing_list">
     <aside>
     <h2>
-      想做的事情
+      正在种的地
     </h2>
     <ul>
       <li>
-        <a href="http://book.douban.com/subject/2287506/" target="_blank">看书</a>
+        <a href="http://book.douban.com/subject/2287506/" target="_blank">深入理解Linux内核</a>
       </li>
     </ul>
     </aside>
@@ -43,19 +43,21 @@ tagline: Stay hungry, Stay foolish
       <div class="done_list">
     <aside>
     <h2>
-      做过的工作
+      种过的地
     </h2>
     <ul>
-      <li><a href="http://www.fanghow.com" target="_blank">再说</a></li>
+      <li><a href="https://github.com/oilbeater/Paxos" target="_blank">Paxos C实现</a></li>
+      <li><a href="https://github.com/oilbeater/Tournament-Predictor">分支预测器 C++实现</a></li>
+      <li>
+        <a href="https://github.com/oilbeater/ACT" target="_blank">编译优化器</a>
+      </li>
+      <li><a href="https://github.com/oilbeater/oilbeater.github.com" target="_blank">简陋的部落</a></li>
     </ul>
     </aside>
   </div>
   <div class="friendlink">
     <p><strong>乡亲们的链接</strong></p>
     <ul>
-     <li>
-        <a href="http://oilbeater.com/" target="_blank">Oilbeater's Blog</a>
-      </li>
       <li>
         <a href="http://itester.me" target="_blank">iTester</a>
       </li>
@@ -65,7 +67,7 @@ tagline: Stay hungry, Stay foolish
     </ul>
   </div>
   </div>
-{% for post in site.posts %}
+  {% for post in site.posts %}
     {% if post.img != "secret" %}
       <div class="main">
         <ul>
