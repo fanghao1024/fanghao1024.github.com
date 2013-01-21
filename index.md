@@ -72,7 +72,6 @@ tagline: Stay hungry, Stay foolish
         <ul>
           <li>
           <a href="{{ post.url }}">
-            <img src="{{ post.img }}" alt="{{ post.title }}">
           </a>
           <div class="posts">
             <h3>
