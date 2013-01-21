@@ -1,29 +1,12 @@
 ---
 layout: page
 title: 我要做
-header: project
-group: rss
+header : About me
+group: navigation
 ---
 {% include JB/setup %}
-####记录下想做但还没做的事情，虽说这里面大部分可能都不会做，不过还是记录一下好。
------------------
-###去西藏
-
-拉萨，纳木错，珠峰，离天堂最近的地方。
-
-###《算法导论》《深入理解计算机系统》
-
-一直希望能完全搞懂其中的哪怕是一本。
-
-###练字
-
-哪怕是能让字好看一点点呢。
-
-###马拉松
-
-跑的下来就跑，跑不下来就想想第一个跑马拉松的人的下场，就更跑不下来了。
-
-###MCI
-
-D语言的编译器套件[项目主页](https://github.com/lycus/mci),希望可以加入一个开源项目。
-
+<div class="about">
+  <p style="font-size:17px;width:663px;margin:auto;text-indent:30px;line-height:25px">
+		一些东西我准备寒假慢慢加
+	</p>
+</div>
