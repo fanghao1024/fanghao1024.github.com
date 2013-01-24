@@ -10,7 +10,7 @@ pygments: true
 # so be sure to set them if your theme uses them.
 #
 title : FangHow
-tagline: "Use it wisely,enjoy it as long as posible ,that's youth"
+tagline: "Stay hungry, Stay foolish"
 author :
   name : FangHow
   email : chinafanghao@foxmail.com
@@ -81,7 +81,7 @@ JB :
   comments :
     provider : disqus
     disqus :
-      short_name : fanghowblog
+      short_name : fanghowsblog
     livefyre :
       site_id : 123
     intensedebate :
@@ -99,7 +99,7 @@ JB :
   analytics :
     provider : google 
     google : 
-        tracking_id : 'UA-31254339-1'
+        tracking_id : 'UA-37931538-1'
     getclicky :
       site_id : 
     mixpanel :
