@@ -38,6 +38,9 @@ tagline: Stay hungry, Stay foolish
         <a href="http://book.douban.com/subject/4941558/" target="_blank">Crack the Code Interview</a>
       </li>
       <li>
+      <a></a>
+      </li>
+      <li>
         <a href="http://book.douban.com/subject/10430397/" target="_blank">艺术通史</a>
       </li>
     </ul>
