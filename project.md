@@ -1,4 +1,4 @@
----
+﻿---
 layout: page
 title: 我要做
 header: project
@@ -43,7 +43,4 @@ D语言的编译器套件[项目主页](https://github.com/lycus/mci),希望可�
 
 作为OS实验室的人还是要争取搞定的。
 
-###搞搞PS，设计
-
-突然发现会点美工还是能给生活带来很多乐趣的。
 
