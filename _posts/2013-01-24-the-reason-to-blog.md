@@ -31,7 +31,7 @@ tags: [life , thinking]
 	</p>
 	<ul>
 		<li>
-			感谢<a href="http://oilbeater.com" target="_blank">Oilbeater</a>Oilbeater学长</a>、<a href="http://itester.me" target="_blank">iTester</a> 和 <a href="http://beiyuu.com" target="_blank">Beiyuu</a>	 的教程支持，过几天我有空也写一个吧，中间也碰到二楼不少问题，补充一下
+			感谢<a href="http://oilbeater.com" target="_blank">Oilbeater</a>、<a href="http://itester.me" target="_blank">iTester</a> 和 <a href="http://beiyuu.com" target="_blank">Beiyuu</a>	 的教程支持，过几天我有空也写一个吧，中间也碰到二楼不少问题，补充一下
 		</li>
 		<li>	感谢jeklly提供的blog摸板和theme
 		</li>
