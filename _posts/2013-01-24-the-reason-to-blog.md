@@ -24,14 +24,14 @@ tags: [life , thinking]
 		以后呢，不管是技术上的学习，还是阅读后的读后感，亦或一些有的没的吐槽牢骚，就在这儿发了，同时也顺手转QQ空间去。
 	</p>
 	<p>
-		这个博客呢，主要是受<a href="http://oilbeater.com" target="_blank">Oilbeater</a>学长的启迪，然后基本抄袭（应该叫代码复用，程序猿的事，哪能叫那么难听啊）了学长的代码，等搞通了整个架构还有研究了相关的网页设计资料后，我再慢慢改~
+		这个博客呢，主要是受<a href="http://oilbeater.com" target="_blank">Oilbeater</a>学长的启迪，然后基本抄袭（应该叫代码复用，程序猿的事，哪能叫那么难听啊）了学长的代码，等搞通了整个架构还有研究了一些网页设计资料后，我再慢慢改~刚看了本书<a href="http://book.douban.com/subject/3323633/" target="_blank">给大家看的设计书</a>,这些设计大师们在刚开始做设计的时候,也是先把自己喜欢的别人做的设计"拿来主义",然后根据其布局,换上自己的内容和图片,潜移默化的,大师们就成长了,也就是老乔喜欢的那句话"好的艺术家抄袭,伟大的艺术家剽窃",那我就先当个好的吧,嘿嘿
 	</p>
 	<p>
 		然后按照惯例发表感谢：
 	</p>
 	<ul>
 		<li>
-			感谢<a href="http://oilbeater.com" target="_blank">Oilbeater</a>、<a href="http://itester.me" target="_blank">iTester</a> 和 <a href="http://beiyuu.com" target="_blank">Beiyuu</a>	 的教程支持，过几天我有空也写一个吧，中间也碰到了少问题，补充一下~
+			感谢<a href="http://oilbeater.com" target="_blank">Oilbeater</a>、<a href="http://itester.me" target="_blank">iTester</a> 和 <a href="http://beiyuu.com" target="_blank">Beiyuu</a>	 的教程支持，过几天我有空也写一个吧，中间也碰到了一些问题，补充一下,以飨读者~
 		</li>
 		<li>	感谢jeklly提供的blog摸板和theme
 		</li>
