@@ -4,7 +4,7 @@ title: "躲在篱笆里的人"
 description: "2013年半年度总结"
 category:
 tagline: "总结过去，才能更好地发展未来"
-tags: [interview , thinking]
+tags: [future , thinking]
 ---
 {% include JB/setup %}
 <div class="blogcontent">
